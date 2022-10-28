@@ -1,0 +1,92 @@
+
+.attribution { 
+    font-size: 11px; text-align: center;
+ }
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(36, 100%, 99%);
+}
+.navbar-brand{
+    font-weight: 800;
+    font-size: 3rem;
+    color: hsl(240, 100%, 5%);
+}
+.nav-link{
+    color: hsl(236, 13%, 42%);
+    font-size: 18px;
+    font-weight: 400;
+}
+.nav-link:hover{
+    color: hsl(5, 85%, 63%);
+}
+.new-container{
+    background-color: hsl(240, 100%, 5%);
+    color: #fff;
+}
+.col-header{
+    color: hsl(35, 77%, 62%);
+    font-size: 3rem !important;
+    letter-spacing: 8px;
+}
+.fw-bold{
+    font-size: 1.2rem;
+}
+p.fw-bold:hover{
+    cursor: pointer;
+    color: hsl(35, 77%, 62%);
+}
+main .row .col-4 p{
+    line-height: 30px;
+}
+.future{
+    font-weight: 800;
+    font-size: 4rem;
+    
+}
+.future-desc{
+    font-size: 15px;
+    line-height: 1.5rem;
+    color: hsl(236, 13%, 42%);
+    font-weight: 400;
+}
+.read-more{
+    background-color: hsl(5, 85%, 63%);
+    width: 12rem;
+    padding: 1rem 1.5rem;
+
+
+}
+.read:link, .read:visited{
+   text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+
+.description{
+    padding: 0 1.5rem;
+}
+.description h3{
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: hsl(233, 8%, 79%);
+}
+.description p:first-of-type{
+    color: hsl(240, 100%, 5%);
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+.description p:first-of-type:hover{
+   color: hsl(5, 85%, 63%);
+   cursor: pointer;
+   transition: color .3s;
+}
+.numbered-img{
+    max-height: 9rem;
+}
+.description p{}
